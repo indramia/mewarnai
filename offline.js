@@ -1,0 +1,29 @@
+﻿{
+	"version": 1575089194,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/black-sheet0.png",
+		"images/brown-sheet0.png",
+		"images/darkgreen-sheet0.png",
+		"images/hapus-sheet0.png",
+		"images/line-sheet0.png",
+		"images/line2-sheet0.png",
+		"images/line3-sheet0.png",
+		"images/line4-sheet0.png",
+		"images/red-sheet0.png",
+		"images/indro-sheet0.png",
+		"images/indra-sheet0.png",
+		"images/canvas.png",
+		"images/trigger-sheet0.png",
+		"images/sip-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
